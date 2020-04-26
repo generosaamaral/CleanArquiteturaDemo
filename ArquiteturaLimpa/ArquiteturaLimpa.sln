@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArquiteturaLimpa.Aplication", "ArquiteturaLimpa.Aplication", "{45168B31-A825-49B0-8837-FE0B098889DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArquitetutaLimpa.Dominios", "ArquitetutaLimpa.Dominios", "{88AECF20-69F4-4705-AA99-89FD2AD6CB3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArquiteturaLimpa.Infra.IsD", "ArquiteturaLimpa.Infra.IsD", "{5C718C16-0E04-4C14-8105-98AECD81EB4C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArquiteturaLimpa.Infra.Dados", "ArquiteturaLimpa.Infra.Dados", "{2EAC749D-C12A-41F1-9EA2-A0518C3E8CBC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArquiteturaLimpa.Interface.U", "ArquiteturaLimpa.Interface.U", "{8BC18913-89F4-4C10-ADA0-949D8C3695D6}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
